@@ -20,4 +20,4 @@ The process of Machine Learning Consist of -
 - Cross Validation.
 - Understanding Where to Stop.!!
 
-All the above steps are applied and used in the example. Please click on the Pima-Predictions.ipynb to see the flow.
+All the above steps are applied and used in the example. Please click on the **Pima-Predictions.ipynb** to see the flow.
